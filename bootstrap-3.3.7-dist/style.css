@@ -1,0 +1,57 @@
+html,h1,h2,h3,p,ol,ul,li,a{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}      
+
+.carousel{
+    background:  url(images/fondo-base.png);
+    margin: 0;
+    padding: 0;
+}
+
+ .encabezado{
+     font-size: 12px;
+ }
+ .navbar-brand{
+     padding: 2px !important; 
+ } 
+    carousel{
+     margin: -20px;
+}   
+
+.Test{
+    margin-bottom: 50px;
+}
+
+.Inscripcion{
+    margin-bottom: 50px;
+}
+
+.colegio{
+margin-bottom: 50px;
+}
+
+.asesor{
+    margin-bottom: 50px;
+
+}
+.imagenes5{
+    margin-top: 116px;
+    margin-bottom: 110px;
+}
+.imagenes5 spam{
+   color:red;   
+   border:1px;   
+   border-color:red; 
+   border-style:solid;
+   margin-top:25px;
+}
+.margenes{
+    padding: 0 110px 0 110px;
+    }
+.salto{
+    color:green;
+    border: 5px;
+      border-color:red; 
+}
